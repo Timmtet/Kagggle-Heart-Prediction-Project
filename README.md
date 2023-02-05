@@ -2,4 +2,4 @@ Kagggle-Heart-Prediction-ProjectCardiovascular diseases (CVDs) are the number 1 
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
-The goal of this project is to build a predictive model that will help in clasification of patients into those at high cardiovascular risk(with cardiovascular disease) and those at low cardiovascular risk(without cardiovascular disease)............
+The goal of this project is to build a predictive model that will help in clasification of patients into those at high cardiovascular risk(with cardiovascular disease) and those at low cardiovascular risk(without cardiovascular disease)
